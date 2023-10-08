@@ -1,3 +1,3 @@
-# NotEnoughGolems
+# SillyMod
 
 minecraft golem mod
